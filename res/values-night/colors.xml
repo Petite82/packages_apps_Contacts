@@ -17,7 +17,7 @@
 
     <color name="quickcontact_name_detail_background">@*android:color/material_grey_850</color>
     <color name="quickcontact_entry_sub_header_text_color">#737373</color>
-    <color name="quickcontact_entry_header_text_color">#202020</color>
+    <color name="quickcontact_entry_header_text_color">#8F8F8F</color>
 
     <color name="background_social_updates">@*android:color/material_grey_850</color>
 
